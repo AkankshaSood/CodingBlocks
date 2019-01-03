@@ -17,7 +17,8 @@ class User (n:String, e:String, g:String){
 ```
 
 Create a sign-up page asking from the user all the necessary details. 
-####
+
+![](./images/Database2.png)
 
 Next, process all the inputs and check the entered fields for not being null and having the correct values (valid email, unique username, password with minimum length etc.)
 
@@ -64,9 +65,12 @@ Create an object of user class passing the details of the form along with key as
 Lastly, set the value of the obtained key using setValue.
 
 This will create the following JSON structure in Firebase Console.
-#############
+
+![](./images/Auth1.png)
+
 And this is the Authentication dashboard: 
-##########################
+
+![](./images/Auth2.png)
 
 ### Verification for correct Email
 
@@ -104,7 +108,8 @@ mAuth!!.signInWithEmailAndPassword(email!!, password!!)
             }
         }
  ```
- ##################################
+ ![](./images/Auth3.png)
+ 
  Similar to the process of signing up, create an activity asking for the email and  password of the user, both the strings are then passed on to the signInWithEmailAndPassword method as parameters. The addOnCompleteListener checks the success of the logging In process.
  
 ## Resetting password
