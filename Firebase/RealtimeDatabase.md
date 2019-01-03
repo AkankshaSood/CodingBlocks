@@ -1,7 +1,10 @@
 # Realtime Database
 
 The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data.
+
 Data in Firebase is stored in the form of a JSON tree:
+
+![](Firebase/images/Database1.png)
  
 In order to begin using the Firebase database, do the initial steps as explained above.
 
