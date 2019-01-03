@@ -137,6 +137,16 @@ The last part of the authentication process is signing out, it can be done with 
 ```
 mAuth.signOut()
 ```
+* Note: *
+
+The language of the verification E-mail that is sent to the user for password reset or for any other similar operation can be changed from the following section of the Authentication part of Firebase:
+ 
+ ![](./images/Auth4.png)
+
+Also, from the Advanced part of the SignIn methods of the Authentication section, you can prevent multiple logins from the same Email address and also restrict the number of account creations from the same IP address.
+
+ ![](./images/Auth5.png)
+
 
 
 
