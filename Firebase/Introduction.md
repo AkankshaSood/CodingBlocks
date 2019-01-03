@@ -1,0 +1,7 @@
+Firebase is a cloud-based backend platform used for building web, android and IOS applications. It is a No SQL database for mobile applications which, through the API, allows development companies to store and synchronize data between clients.
+
+It has got everything that is required to build a successful application from helping you to reach the users and keeping them engaged to getting paid. Firebase also provides test lab and crash reporting to diagnose and prevent errors in your app. Your backend infrastructure problems can be resolved with Firebase real-time database, file storage, and hosting solutions.
+
+The component of authentication signs in the user with minimum ease. Once your app has been installed, the users can be kept engaged with push notifications, cloud messaging and app indexing. Apart from all these features, with Remote Configuration, you have the freedom to experiment with app features and optimize the user experience in real time. The application can even be monetized using the AdMob component. Also with firebase analytics, the AdWord campaigns can be measured and optimized and the manner in which the app is being used by the users can be discovered.
+
+Lastly, the ML Kit brings to you the power of machine learning. It can recognize text, detect faces, scan barcodes, label images and recognize landmarks. All you have to do is to pass in the required data and the information you want to get can be achieved in just a few lines of code.
