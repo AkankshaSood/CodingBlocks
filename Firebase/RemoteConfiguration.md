@@ -12,11 +12,11 @@ Firstly, setup the firebase as explained in the previous section.
 
 Next, open the firebase console -> find remote configuration in the Grow section and click on **Add your first parameter** to get started.
 
-![][./images/rc1.png]
+![](./images/rc1.png)
 
 Type in the value of the parameter along with default value and add this parameter (Using this default parameter you can control the message).
 
-![][./images/rc2.png]
+![](./images/rc2.png)
 
 Declare an object of FirebaseRemoteConfig.
 
@@ -50,13 +50,13 @@ val cacheExpiration: Long = 0;
  
 You can now control the value of the parameter from firebase and publish the changes you just made.
 
-![][./images/rc4.png]
+![](./images/rc4.png)
 
-![][./images/rc5.png]
+![](./images/rc5.png)
 
 Also, you can restrict the application of change to a fewer section of  audience by applying any condition.
 
-![][./images/rc6.png]
+![](./images/rc6.png)
 
 
 
